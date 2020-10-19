@@ -1,1 +1,0 @@
-let inicio = 0;
